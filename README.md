@@ -5,3 +5,6 @@ This is the api for an app I built so that my family could have an organized hol
 - MongoDB
 - Express.js
 - javascript
+
+## Project Planning
+![familyGiftExchangeModels](https://user-images.githubusercontent.com/60015240/103312467-21508780-49eb-11eb-88c1-20aab38988bf.jpg)
